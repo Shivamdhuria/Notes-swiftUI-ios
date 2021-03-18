@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "17300C0C-C761-4753-BC32-5B57A9D5B941"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C96194B-7977-490E-8973-BA3F220BB25D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "notes/View/CreateNewTask.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "CreateNewTask"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "2C96194B-7977-490E-8973-BA3F220BB25D - 8425b56f67bdbecd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notes.CreateNewTask.presentationMode.getter : SwiftUI.Binding&lt;SwiftUI.PresentationMode&gt;"
+                  moduleName = "notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Hustle/notes/notes/View/CreateNewTask.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "163">
+               </Location>
+               <Location
+                  uuid = "2C96194B-7977-490E-8973-BA3F220BB25D - 68b65d84439c9d3b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notes.CreateNewTask.init() -&gt; notes.CreateNewTask"
+                  moduleName = "notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Hustle/notes/notes/View/CreateNewTask.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "195">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2584A215-46B7-46B8-928F-C15BFE4673C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "notes/View/CreateNewTask.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "CreateNewTask"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "2584A215-46B7-46B8-928F-C15BFE4673C0 - 2b25bc601b2f9e1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of notes.CreateNewTask.text : Swift.String"
+                  moduleName = "notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Hustle/notes/notes/View/CreateNewTask.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "2584A215-46B7-46B8-928F-C15BFE4673C0 - e362c90a1a7fc230"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notes.CreateNewTask.text.getter : Swift.String"
+                  moduleName = "notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Hustle/notes/notes/View/CreateNewTask.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "2584A215-46B7-46B8-928F-C15BFE4673C0 - f167c86ead6bb224"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notes.CreateNewTask.text.setter : Swift.String"
+                  moduleName = "notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Hustle/notes/notes/View/CreateNewTask.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "219">
+               </Location>
+               <Location
+                  uuid = "2584A215-46B7-46B8-928F-C15BFE4673C0 - fdf4b07f2b4fde35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notes.CreateNewTask.text.modify : Swift.String"
+                  moduleName = "notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Hustle/notes/notes/View/CreateNewTask.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  uuid = "2584A215-46B7-46B8-928F-C15BFE4673C0 - cbdc086cf1b08424"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notes.CreateNewTask.text.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Hustle/notes/notes/View/CreateNewTask.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "10">
+               </Location>
+               <Location
+                  uuid = "2584A215-46B7-46B8-928F-C15BFE4673C0 - 399eced3602b83a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notes.CreateNewTask.$text.getter : SwiftUI.Binding&lt;Swift.String&gt;"
+                  moduleName = "notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Hustle/notes/notes/View/CreateNewTask.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "230">
+               </Location>
+               <Location
+                  uuid = "2584A215-46B7-46B8-928F-C15BFE4673C0 - 68b65d84439c9181"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notes.CreateNewTask.init() -&gt; notes.CreateNewTask"
+                  moduleName = "notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Hustle/notes/notes/View/CreateNewTask.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "458A3336-3379-4544-B054-F3DB432FDF39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "notes/View/CreateNewTask.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "CreateNewTask"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BDE125A-5016-469E-B823-EAFFE0758A8A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "notes/View/CreateNewTask.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "CreateNewTask"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "0BDE125A-5016-469E-B823-EAFFE0758A8A - 2b25bc601b2f9e1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of notes.CreateNewTask.text : Swift.String"
+                  moduleName = "notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Hustle/notes/notes/View/CreateNewTask.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "0BDE125A-5016-469E-B823-EAFFE0758A8A - e362c90a1a7fc230"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notes.CreateNewTask.text.getter : Swift.String"
+                  moduleName = "notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Hustle/notes/notes/View/CreateNewTask.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "0BDE125A-5016-469E-B823-EAFFE0758A8A - f167c86ead6bb224"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notes.CreateNewTask.text.setter : Swift.String"
+                  moduleName = "notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Hustle/notes/notes/View/CreateNewTask.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "219">
+               </Location>
+               <Location
+                  uuid = "0BDE125A-5016-469E-B823-EAFFE0758A8A - fdf4b07f2b4fde35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notes.CreateNewTask.text.modify : Swift.String"
+                  moduleName = "notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Hustle/notes/notes/View/CreateNewTask.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  uuid = "0BDE125A-5016-469E-B823-EAFFE0758A8A - cbdc086cf1b08424"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notes.CreateNewTask.text.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Hustle/notes/notes/View/CreateNewTask.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "10">
+               </Location>
+               <Location
+                  uuid = "0BDE125A-5016-469E-B823-EAFFE0758A8A - 399eced3602b83a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notes.CreateNewTask.$text.getter : SwiftUI.Binding&lt;Swift.String&gt;"
+                  moduleName = "notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Hustle/notes/notes/View/CreateNewTask.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "230">
+               </Location>
+               <Location
+                  uuid = "0BDE125A-5016-469E-B823-EAFFE0758A8A - 68b65d84439c9181"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notes.CreateNewTask.init() -&gt; notes.CreateNewTask"
+                  moduleName = "notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Hustle/notes/notes/View/CreateNewTask.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

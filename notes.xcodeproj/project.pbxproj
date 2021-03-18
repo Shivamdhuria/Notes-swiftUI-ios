@@ -11,6 +11,21 @@
 		189015DF25D12B65006BAEDF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189015DE25D12B65006BAEDF /* ContentView.swift */; };
 		189015E125D12B66006BAEDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 189015E025D12B66006BAEDF /* Assets.xcassets */; };
 		189015E425D12B66006BAEDF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 189015E325D12B66006BAEDF /* Preview Assets.xcassets */; };
+		189015F425D13E2D006BAEDF /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189015F325D13E2D006BAEDF /* Color.swift */; };
+		189015FB25D19973006BAEDF /* TaskRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189015FA25D19973006BAEDF /* TaskRow.swift */; };
+		189015FF25D1B847006BAEDF /* CreateNewTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189015FE25D1B847006BAEDF /* CreateNewTask.swift */; };
+		1890160225D1CB45006BAEDF /* PrioritySelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1890160125D1CB45006BAEDF /* PrioritySelector.swift */; };
+		1890160625D1D2E8006BAEDF /* TaskList.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1890160425D1D2E8006BAEDF /* TaskList.xcdatamodeld */; };
+		1890160925D1D4EA006BAEDF /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1890160825D1D4EA006BAEDF /* Persistence.swift */; };
+		1890161425D2A17A006BAEDF /* CreateNewGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1890161325D2A17A006BAEDF /* CreateNewGroup.swift */; };
+		1890161725D2A58F006BAEDF /* GroupViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1890161625D2A58F006BAEDF /* GroupViews.swift */; };
+		1890161E25D30F5F006BAEDF /* TasksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1890161D25D30F5F006BAEDF /* TasksView.swift */; };
+		1890163025D40274006BAEDF /* Group+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1890162E25D40274006BAEDF /* Group+CoreDataClass.swift */; };
+		1890163125D40274006BAEDF /* Group+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1890162F25D40274006BAEDF /* Group+CoreDataProperties.swift */; };
+		1890163B25D4045A006BAEDF /* Task+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1890163925D4045A006BAEDF /* Task+CoreDataClass.swift */; };
+		1890163C25D4045A006BAEDF /* Task+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1890163A25D4045A006BAEDF /* Task+CoreDataProperties.swift */; };
+		1890164C25D47088006BAEDF /* StatusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1890164B25D47088006BAEDF /* StatusView.swift */; };
+		1890165525DAE344006BAEDF /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1890165425DAE344006BAEDF /* UIColor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +35,21 @@
 		189015E025D12B66006BAEDF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		189015E325D12B66006BAEDF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		189015E525D12B66006BAEDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		189015F325D13E2D006BAEDF /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		189015FA25D19973006BAEDF /* TaskRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskRow.swift; sourceTree = "<group>"; };
+		189015FE25D1B847006BAEDF /* CreateNewTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateNewTask.swift; sourceTree = "<group>"; };
+		1890160125D1CB45006BAEDF /* PrioritySelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrioritySelector.swift; sourceTree = "<group>"; };
+		1890160525D1D2E8006BAEDF /* TaskList.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TaskList.xcdatamodel; sourceTree = "<group>"; };
+		1890160825D1D4EA006BAEDF /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
+		1890161325D2A17A006BAEDF /* CreateNewGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateNewGroup.swift; sourceTree = "<group>"; };
+		1890161625D2A58F006BAEDF /* GroupViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupViews.swift; sourceTree = "<group>"; };
+		1890161D25D30F5F006BAEDF /* TasksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasksView.swift; sourceTree = "<group>"; };
+		1890162E25D40274006BAEDF /* Group+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Group+CoreDataClass.swift"; sourceTree = "<group>"; };
+		1890162F25D40274006BAEDF /* Group+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Group+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		1890163925D4045A006BAEDF /* Task+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Task+CoreDataClass.swift"; sourceTree = "<group>"; };
+		1890163A25D4045A006BAEDF /* Task+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Task+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		1890164B25D47088006BAEDF /* StatusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusView.swift; sourceTree = "<group>"; };
+		1890165425DAE344006BAEDF /* UIColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,11 +82,14 @@
 		189015DB25D12B65006BAEDF /* notes */ = {
 			isa = PBXGroup;
 			children = (
+				189015F225D13E07006BAEDF /* extensions */,
+				189015EF25D1344C006BAEDF /* Model */,
+				189015EC25D12B88006BAEDF /* View */,
 				189015DC25D12B65006BAEDF /* notesApp.swift */,
-				189015DE25D12B65006BAEDF /* ContentView.swift */,
 				189015E025D12B66006BAEDF /* Assets.xcassets */,
 				189015E525D12B66006BAEDF /* Info.plist */,
 				189015E225D12B66006BAEDF /* Preview Content */,
+				1890160825D1D4EA006BAEDF /* Persistence.swift */,
 			);
 			path = notes;
 			sourceTree = "<group>";
@@ -67,6 +100,74 @@
 				189015E325D12B66006BAEDF /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		189015EC25D12B88006BAEDF /* View */ = {
+			isa = PBXGroup;
+			children = (
+				1890164525D432FA006BAEDF /* Group */,
+				1890161C25D30F16006BAEDF /* Task */,
+				189015DE25D12B65006BAEDF /* ContentView.swift */,
+				1890160425D1D2E8006BAEDF /* TaskList.xcdatamodeld */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		189015EF25D1344C006BAEDF /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				1890162125D400EC006BAEDF /* Groups */,
+				1890162025D400DB006BAEDF /* Tasks */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		189015F225D13E07006BAEDF /* extensions */ = {
+			isa = PBXGroup;
+			children = (
+				189015F325D13E2D006BAEDF /* Color.swift */,
+				1890165425DAE344006BAEDF /* UIColor.swift */,
+			);
+			path = extensions;
+			sourceTree = "<group>";
+		};
+		1890161C25D30F16006BAEDF /* Task */ = {
+			isa = PBXGroup;
+			children = (
+				1890160125D1CB45006BAEDF /* PrioritySelector.swift */,
+				189015FA25D19973006BAEDF /* TaskRow.swift */,
+				189015FE25D1B847006BAEDF /* CreateNewTask.swift */,
+				1890161D25D30F5F006BAEDF /* TasksView.swift */,
+				1890164B25D47088006BAEDF /* StatusView.swift */,
+			);
+			path = Task;
+			sourceTree = "<group>";
+		};
+		1890162025D400DB006BAEDF /* Tasks */ = {
+			isa = PBXGroup;
+			children = (
+				1890163925D4045A006BAEDF /* Task+CoreDataClass.swift */,
+				1890163A25D4045A006BAEDF /* Task+CoreDataProperties.swift */,
+			);
+			path = Tasks;
+			sourceTree = "<group>";
+		};
+		1890162125D400EC006BAEDF /* Groups */ = {
+			isa = PBXGroup;
+			children = (
+				1890162E25D40274006BAEDF /* Group+CoreDataClass.swift */,
+				1890162F25D40274006BAEDF /* Group+CoreDataProperties.swift */,
+			);
+			path = Groups;
+			sourceTree = "<group>";
+		};
+		1890164525D432FA006BAEDF /* Group */ = {
+			isa = PBXGroup;
+			children = (
+				1890161625D2A58F006BAEDF /* GroupViews.swift */,
+				1890161325D2A17A006BAEDF /* CreateNewGroup.swift */,
+			);
+			path = Group;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,8 +239,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1890161725D2A58F006BAEDF /* GroupViews.swift in Sources */,
+				1890160925D1D4EA006BAEDF /* Persistence.swift in Sources */,
+				1890163B25D4045A006BAEDF /* Task+CoreDataClass.swift in Sources */,
+				189015FB25D19973006BAEDF /* TaskRow.swift in Sources */,
+				189015FF25D1B847006BAEDF /* CreateNewTask.swift in Sources */,
 				189015DF25D12B65006BAEDF /* ContentView.swift in Sources */,
+				1890165525DAE344006BAEDF /* UIColor.swift in Sources */,
+				1890161425D2A17A006BAEDF /* CreateNewGroup.swift in Sources */,
+				1890161E25D30F5F006BAEDF /* TasksView.swift in Sources */,
+				1890160625D1D2E8006BAEDF /* TaskList.xcdatamodeld in Sources */,
 				189015DD25D12B65006BAEDF /* notesApp.swift in Sources */,
+				1890164C25D47088006BAEDF /* StatusView.swift in Sources */,
+				189015F425D13E2D006BAEDF /* Color.swift in Sources */,
+				1890160225D1CB45006BAEDF /* PrioritySelector.swift in Sources */,
+				1890163025D40274006BAEDF /* Group+CoreDataClass.swift in Sources */,
+				1890163C25D4045A006BAEDF /* Task+CoreDataProperties.swift in Sources */,
+				1890163125D40274006BAEDF /* Group+CoreDataProperties.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -328,6 +444,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		1890160425D1D2E8006BAEDF /* TaskList.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				1890160525D1D2E8006BAEDF /* TaskList.xcdatamodel */,
+			);
+			currentVersion = 1890160525D1D2E8006BAEDF /* TaskList.xcdatamodel */;
+			path = TaskList.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 189015D125D12B65006BAEDF /* Project object */;
 }
